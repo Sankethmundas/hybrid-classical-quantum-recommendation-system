@@ -1,0 +1,6 @@
+Model,Type,RMSE,MAE,Fit_Time_s,Predict_Time_s,N_Predictions
+SVD,Classical,0.95,0.7464,0.577,0.008,2000
+KNN-User,Classical,0.9725,0.764,0.629,0.232,2000
+NMF,Classical,0.9589,0.7434,0.698,0.005,2000
+QuantumKernel-4Q (Untrained),Quantum,1.1607,0.9773,1.081,8.754,2000
+QuantumKernel-4Q (Trained),Quantum,1.1743,0.9854,16.857,14.004,2000
